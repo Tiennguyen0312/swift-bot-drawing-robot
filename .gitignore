@@ -1,0 +1,10 @@
+bin/
+*.class
+.settings/
+.classpath
+.project
+Assignment3.jar
+*.zip
+.DS_Store
+Thumbs.db
+lib/*.jar
